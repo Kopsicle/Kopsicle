@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kopsicle
+- 👋 Hi, I’m @Giomar Griffiths
 testing the site
 
 <!---
